@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1593085383 source:c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\src\music.cpp
+	"Music.h"
+
+1593085383 c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\include\music.h
+	<iostream>
+	<fstream>
+
+1593511248 source:c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\main.cpp
+	<Sportsmen.h>
+	<Base.h>
+	<stdlib.h>
+	<windows.h>
+
+1593085383 c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\include\album.h
+	<Music.h>
+
+1593093388 source:c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\src\base.cpp
+	"Base.h"
+	"vector"
+	<string.h>
+
+1593091509 c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\include\base.h
+	<Sportsmen.h>
+
+1593091948 c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\include\sportsmen.h
+	<iostream>
+	<fstream>
+
+1593511361 source:c:\users\Максим\onedrive\desktop\Курсач\kursa\kursovik\src\sportsmen.cpp
+	"Sportsmen.h"
+
+1593511248 source:c:\users\Максим\onedrive\desktop\1 курс\прога\Курсач\kursa\kursovik\main.cpp
+	<Sportsmen.h>
+	<Base.h>
+	<stdlib.h>
+	<windows.h>
+
+1593091948 c:\users\Максим\onedrive\desktop\1 курс\прога\Курсач\kursa\kursovik\include\sportsmen.h
+	<iostream>
+	<fstream>
+
+1593091509 c:\users\Максим\onedrive\desktop\1 курс\прога\Курсач\kursa\kursovik\include\base.h
+	<Sportsmen.h>
+
+1593093388 source:c:\users\Максим\onedrive\desktop\1 курс\прога\Курсач\kursa\kursovik\src\base.cpp
+	"Base.h"
+	"vector"
+	<string.h>
+
+1593511361 source:c:\users\Максим\onedrive\desktop\1 курс\прога\Курсач\kursa\kursovik\src\sportsmen.cpp
+	"Sportsmen.h"
+
